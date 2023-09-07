@@ -6,6 +6,5 @@ pipeline {
         fileExists 'pom.xml'
       }
     }
-
   }
 }
